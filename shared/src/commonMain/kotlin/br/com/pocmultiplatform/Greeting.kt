@@ -30,7 +30,7 @@ internal fun GreetingView() {
                 .fillMaxWidth()
                 .padding(16.dp)
         ) {
-            Text(text = "Continue")
+            Text(text = "Continues")
         }
     }
 }
